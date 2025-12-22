@@ -7,7 +7,7 @@
 #include "config.h"
 #include "i2c.h"
 
-#define I2C_QUEUE_BUFFER_SIZE 2048
+#define I2C_QUEUE_BUFFER_SIZE 512
 //buffer to copy and paste to reset queue start to 0
 typedef struct
 {
