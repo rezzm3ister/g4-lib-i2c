@@ -4,7 +4,6 @@
 #include "stdio.h"
 #include "string.h"
 #include "stdbool.h"
-#include "config.h"
 #include "i2c.h"
 
 #define I2C_QUEUE_BUFFER_SIZE 512
